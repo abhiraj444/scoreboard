@@ -26,9 +26,9 @@ function incSecondScoreByThree(){
     secondScore+=3
     secondScoreEl.textContent=secondScore
 }
-function reset(){
-    firstScore=0
-    secondScore=0
-    firstScoreEl.textContent=0
-    secondScoreEl.textContent=0
-}
+// function reset(){
+//     firstScore=0
+//     secondScore=0
+//     firstScoreEl.textContent=0
+//     secondScoreEl.textContent=0
+// }
